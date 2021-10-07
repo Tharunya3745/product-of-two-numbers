@@ -1,0 +1,17 @@
+ #include <iostream>
+using namespace std;
+
+int main()
+{
+  int a,b,product;
+  cout<<"enter the two numbers";
+  cin>>a>>b;
+  product=a*b;
+  cout<<a<<"*"<<b<<"="<<product;
+  return 0;
+  
+    
+
+
+
+}
